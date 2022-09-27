@@ -14,7 +14,7 @@
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
 <!--<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
-<img align="right" alt="GIF" src="https://www.paredro.com/wp-content/uploads/2015/08/dise%C3%B1adores-5c.gif" />
+<img align="right" alt="GIF" max-widht="50%" src="https://www.paredro.com/wp-content/uploads/2015/08/dise%C3%B1adores-5c.gif" />
 
 **About Me!**
 
