@@ -18,7 +18,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as Full Stack developer at DudyFit
+- 👨🏽‍💻 I’m currently working as Full Stack developer at Harbiz
 - 👨🏼‍🎓 I studied computer engineering at the university of Alicante
 - 🌱 I’m currently exploring TypeScript with a big interest in NoSQL databases and software architecture
 - 🤔 My interest lies in front end web development.
